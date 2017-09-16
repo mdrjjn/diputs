@@ -12,9 +12,9 @@
         android:layout_height="wrap_content"
         android:text="Click me for a joke about IU!"
         android:onClick="onClickRandomJokeButton"
-        android:layout_marginBottom="100dp"
-        android:layout_below="@+id/text"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp" />
 
 </RelativeLayout>
 
