@@ -22,11 +22,18 @@
         android:layout_height="wrap_content"
         android:text="Why Does My Problem Exist"
         android:onClick="onClickHelpButton"
-        tools:layout_editor_absoluteX="79dp"
-        tools:layout_editor_absoluteY="318dp"
         android:layout_marginTop="80dp"
         android:layout_below="@+id/text"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        android:id="@+id/jokes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Jokes"
+        android:onClick="onClickJokeButton"
+        android:layout_marginBottom="100dp"
+        android:layout_below="@+id/text"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

@@ -3,21 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\Users\jasza\.android\build-cache\6901be7ab305a1c42e09550c134c8b1985f7e5dd\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="39b3172e57fd54fe6bfa5553ac692dfdfe0693ff">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35911ebe1d2516f132fd1ea98d16918c26ca4538/classes.dex" />
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae71bda49b4821f9dfd6b7e9e4f2cfe9dcd7bfbb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\jasza\.android\build-cache\c88359c12cff3f9e7bf94bd0b6fade90fcdf7238\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ede65c77eb2d2d698a25e29ce6c8541ed6b1ba7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\9f2278a397c1d7e80244c0c3aa06bc390eb9d619\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b15224d14a3b739bcc85f5c97d97a13425ac21e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_68cc6f08d65195dc0067809377b243f64a0f3b9f/classes.dex" />
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2a25d9d3e04d1393dff3513fc1e678746d678f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\755a85b6ea9e8a19872e5d0d7dd54be0bd34e74f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e0dc20243bce47993c9e2076c87bbf983154dd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f17fe866de0044ca97f0cc4c1af79ba2c9d715a0">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_26bf4e1aa4e82cfb630defec96dfde18945b254a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\3ade1057ad7ec991cc4adfb2c94c512d1d81f13e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4883eb8ad64cdbdf4e74b954de568ee95705bf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\23f72a5f0c6d0f0b26c112cd2780b40d9c2a9a52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df97ad0b2e7831683ed669d1b8bb48d34a7945a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\75370c8aa5b88b72c00b495cd5296ad501d668d7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_32e0fdc6e6a87c9636b61b148019c870d26fc4aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\187e7d4c6ab93dcb9366e2559c07f5c49e422289\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_314b99679377e0284678dc0d0c1ff342a73e3862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_621e41e707eb0dbb9d9455649ed9e15bfed174f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_4281e6ead7d289a37981c0295c39c5dfa41fa51f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\acff2ef538aea14664f0bc2a4835831bc41fbd2c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64c8816c1173f9ef57a07b50532a3e22b92ab921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jasza\.android\build-cache\b1ac0c8d5ba54d715df4fe6b36029d084a9891de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\jasza\Desktop\android projects\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_179db2a1177d6b2440098c5a473c8bb0fd189a6e\classes.dex" />
     </item>
 
 </items>
