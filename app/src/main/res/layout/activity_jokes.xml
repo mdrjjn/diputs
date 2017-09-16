@@ -6,16 +6,15 @@
     android:layout_height="match_parent"
     tools:context="com.example.drmax.diputs.Jokes">
 
-    <TextView
-        android:id="@+id/textView"
+    <Button
+        android:id="@+id/jokes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Type in a joke about IU!"
-        android:textSize="46dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="Click me for a joke about IU!"
+        android:onClick="onClickRandomJokeButton"
+        android:layout_marginBottom="100dp"
+        android:layout_below="@+id/text"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
 

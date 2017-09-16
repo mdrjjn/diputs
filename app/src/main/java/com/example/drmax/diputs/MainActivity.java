@@ -27,8 +27,13 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void onClickJokeButton(View view2){
-        Intent intent2 = new Intent(this, Jokes.class);
-        startActivity(intent2);
+    public void onClickJokeButton(View view){
+        Intent intent = new Intent(this, Jokes.class);
+        startActivity(intent);
+    }
+
+    public void onClickContributeButton(View view) {
+        Intent intent = new Intent(this, Contribute.class);
+        startActivity(intent);
     }
 }
