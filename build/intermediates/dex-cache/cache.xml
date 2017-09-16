@@ -3,21 +3,129 @@
 
     <item
         is-multidex="true"
-        jar="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\02553d80d285e1cc056b0eba0903ebb4940c1cd6\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="39b3172e57fd54fe6bfa5553ac692dfdfe0693ff">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35911ebe1d2516f132fd1ea98d16918c26ca4538/classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_615bec76f867dcafe3410cb11523c8934fa0065a\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_68cc6f08d65195dc0067809377b243f64a0f3b9f/classes.dex" />
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_12e51dd14d2721f87f2ecf410d726734ed7d9cb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\f0f8b87aa61f424b00c2543300507428f701fc25\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7e45b2a3b36ef1773ef19b30b914e6a196dcbb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_80a57e3f1cb5412a1f770ef8c352e421985ad7f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\d6a18f1b3af0c655b417e25a34c08d73ea1fe6c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_901ffd2e521862d8a7dfce1d2ccde399228d400b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\6e4fb9d76f26a54858a9394e5e6e543191ff1354\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_999942fc8c585c260d2e7000020111b0d6485e9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\e4d356b0a1d39987997f6ed5ea6cfdaf9ab218f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c8924582153de8fefcdbcf9daf5deb0d523fded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\deac62513eae99def3d74677bb5429d336e4ffb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb21446372b92418cb6a46607f13a721cf337259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\34d701079f83ed2f00264984ccffbc093ae0180f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5a2cec62351e900af79e4a015512cf3c3764fd0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_964c99a8ac6a6c845defda9d9a51a78cfc6e8d32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d229513c9c2a72583fe690cc3770b4fd9149a302">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b92b95dddf0a0dd9551a09404a7af4bda4f3df8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\5788ac6c5b082c0142cf8bac15a3387434c5dda8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2ae73ba50aafe8d6c70b922ef8418343d05e17d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\ac2f7053c1e9064a3d83a83abfe04d6a58c325c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5c6bb6073a3342ce66f895091e9dd37dcafa28ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\H.A.L. 9000\.android\build-cache\d09510692e65568fa94060f7271d5247cfa30331\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\H.A.L. 9000\Documents\GitHub\diputs\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d020c9fbe0f217dd020d771785adb0cd209f437\classes.dex" />
     </item>
 
 </items>

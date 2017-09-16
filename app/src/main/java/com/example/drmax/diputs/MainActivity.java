@@ -25,4 +25,18 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, Problem.class);
         startActivity(intent);
     }
+
+
+    public void onClickContributeButton(View view) {
+        //TextView exampleTextView = (TextView) findViewById(R.id.text);
+        //exampleTextView.setText("What's yo prob yo?");
+//        Intent intent = new Intent(this, DisplayMessageActivity.class);
+//        EditText editText = (EditText) findViewById(R.id.editText);
+//        String message = editText.getText().toString();
+//        intent.putExtra(EXTRA_MESSAGE, message);
+//        startActivity(intent);
+        Intent intent = new Intent(this, Contribute.class);
+        startActivity(intent);
+
+
 }
