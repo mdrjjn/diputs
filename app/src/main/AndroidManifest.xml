@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Problem" />
+        <activity android:name=".Contribute" />
+        <activity android:name=".Jokes"></activity>
     </application>
 
 </manifest>
