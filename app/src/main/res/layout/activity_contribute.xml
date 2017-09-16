@@ -54,6 +54,6 @@
         android:layout_alignStart="@+id/textView3"
         android:layout_marginBottom="13dp"
         android:ems="10"
-        android:hint="created cancer"
+        android:hint="hates puppies"
         android:inputType="textMultiLine" />
 </RelativeLayout>

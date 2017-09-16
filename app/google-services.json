@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46153887852",
+    "firebase_url": "https://diputs-ca649.firebaseio.com",
+    "project_id": "diputs-ca649",
+    "storage_bucket": "diputs-ca649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46153887852:android:d2bea0e6f722e061",
+        "android_client_info": {
+          "package_name": "com.example.drmax.diputs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46153887852-hbnru4gmue3pkeogbmf6isc8qp5f4361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB53lrHyKdhg_8d2SKORnDW4By5XLtSpV0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
