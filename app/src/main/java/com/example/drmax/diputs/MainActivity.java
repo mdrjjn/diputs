@@ -25,4 +25,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, Problem.class);
         startActivity(intent);
     }
+
+    public void onClickContributeButton(View view) {
+        Intent intent = new Intent(this, Contribute.class);
+        startActivity(intent);
+    }
 }
