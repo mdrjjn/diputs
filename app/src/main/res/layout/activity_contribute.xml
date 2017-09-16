@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="That is because IU"
         android:textSize="36sp"
-        android:layout_above="@+id/editText3"
+        android:layout_above="@+id/punchLine"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="19dp" />
 
@@ -47,7 +47,7 @@
         android:layout_alignStart="@+id/textView2" />
 
     <EditText
-        android:id="@+id/editText3"
+        android:id="@+id/punchLine"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_above="@+id/button"

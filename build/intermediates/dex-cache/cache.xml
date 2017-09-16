@@ -7,62 +7,98 @@
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="80bae831cdf63bd63e0443933c7e2d4556d44500">
+        sha1="816f74c0621c7bcb23b8745047f4790113dfe0f3">
         <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35911ebe1d2516f132fd1ea98d16918c26ca4538/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/.android/build-cache/e574e584b8adf6d21fc6163b3b1c17cab21695e8/output/jars/classes.jar"
+        jar="/Users/drmax/.android/build-cache/6b58759721043ae5e162e6b5827a753ced4e91e0/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c31806e187015aeed1c05d6e2415d9a46da16c1b/classes.dex" />
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83f30ee1fa1e6c39e05897c5209479cea2ad3885/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/.android/build-cache/0649cc4cdb8d1d12f82553c3963369214ea52ef7/output/jars/classes.jar"
+        jar="/Users/drmax/.android/build-cache/228ada6534493a44314c1c256153c1c259e0d513/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fdb13401a74ae0fc1c5da6ce212eba3ad2915157/classes.dex" />
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_800974b1ac2ed17c3164da0d7318e946d572b7d5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/.android/build-cache/2fb43e2b989d083490dcdbb857d56c326103558c/output/jars/classes.jar"
+        jar="/Users/drmax/.android/build-cache/e5f3ba6a6af04ba95c41dc83b3fceed23ac44f5b/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8d5a9c5bfc47c3e8b2c228a2727d9cc98f50b23/classes.dex" />
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b906e81b6f730bc1ccf33655e0b50b17c018831e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/.android/build-cache/097b50fcfc3b6407573e805dd617820c093bdfa1/output/jars/classes.jar"
+        jar="/Users/drmax/.android/build-cache/0a8fce5846d50393d385cf30550581c15b85cdd5/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dfe8cdb30f89b85aa1cea7a215cbb4a2f04e78c/classes.dex" />
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3c7c565d33ef331d6d8002570ade2975d8d2350f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/.android/build-cache/31de187de721e41aa31f0dcfb140765f251cdd73/output/jars/classes.jar"
+        jar="/Users/drmax/.android/build-cache/9605aba8d698525c46f4900b7950fda8fce68279/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bec04ce61939211625bceae985b8b1ccb6c088b5/classes.dex" />
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19cbcc867a6fd26a3c1adb28f6c5d886b492e9fe/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/.android/build-cache/69cc1eb05dbc569feaf050a9ae12024606671dac/output/jars/classes.jar"
+        jar="/Users/drmax/.android/build-cache/1726d6314a5371b78e5e8e2600b300d8f365f3a7/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8392873a853e3537283aef16f5ed2e4f7dd0f14b/classes.dex" />
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_09b4bce94e36fd127f1a41c5fb4777510218cc0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drmax/.android/build-cache/6eefe6cd20d282ce4cf965dbc2d4be39549a19f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca662b71a5e58e0be6c6065823a511ee2bc38094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drmax/.android/build-cache/95ed6e7dfa9530fe8631c0715aa3b218c72c4292/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e03bd1544e88134beef2762105338ba0ec50026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drmax/.android/build-cache/e5c72d86547059b49336334b68963788b644fc3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d00e0e160e047dec2b1da3b646e4d93a41d8eac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/drmax/.android/build-cache/6729b7d3c199bd910716879b3c58186ae00e7080/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e645cfdfbc260911af7e725e9cd10cd979af02b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,12 +111,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/drmax/.android/build-cache/c0c3e206584c59cb16b03552bc7ae3cf9e77ff43/output/jars/classes.jar"
+        jar="/Users/drmax/.android/build-cache/b3f75300422e39397150db5f6bf3ff1912dd5a46/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14fa67f1e62d58a7e4d607718d395e05094ffcee/classes.dex" />
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/drmax/Desktop/Coding Projects/diputs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f3c6ea741a9783b8437d961415a598f701ff275/classes.dex" />
     </item>
 
 </items>

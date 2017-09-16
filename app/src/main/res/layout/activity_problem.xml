@@ -15,4 +15,22 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="65dp"
         android:text="Your Problem" />
+
+    <TextView
+        android:id="@+id/answerDisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="140dp"
+        android:textSize="38sp" />
+
+    <Button
+        android:id="@+id/btnAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/answerDisplay"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="64dp"
+        android:text="Answer" />
 </RelativeLayout>
