@@ -15,7 +15,6 @@
         tools:layout_editor_absoluteX="79dp"
         tools:layout_editor_absoluteY="318dp"
         android:layout_marginTop="80dp"
-        android:layout_below="@+id/text"
         android:layout_centerHorizontal="true" />
 
     <Button
@@ -23,10 +22,22 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
         android:layout_marginBottom="95dp"
         android:onClick="onClickContributeButton"
-        android:text="Contribute" />
+        android:text="Contribute"
+        android:layout_alignStart="@+id/jokeButton"
+        android:layout_alignEnd="@+id/jokeButton" />
+
+    <Button
+        android:id="@+id/jokeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onClickJokeButton"
+        android:text="Jokes"
+        android:layout_marginTop="46dp"
+        android:layout_below="@+id/helpButton"
+        android:layout_alignStart="@+id/helpButton"
+        android:layout_alignEnd="@+id/helpButton" />
 
 
 </RelativeLayout>
