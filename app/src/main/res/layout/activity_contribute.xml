@@ -17,12 +17,13 @@
         android:layout_marginBottom="19dp" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnSubmitPunchline"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="49dp"
+        android:onClick="uploadPunchline"
         android:text="Submit" />
 
     <TextView
@@ -50,7 +51,7 @@
         android:id="@+id/punchLine"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/button"
+        android:layout_above="@+id/btnSubmitPunchline"
         android:layout_alignStart="@+id/textView3"
         android:layout_marginBottom="13dp"
         android:ems="10"
