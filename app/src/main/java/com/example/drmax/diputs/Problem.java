@@ -22,7 +22,8 @@ public class Problem extends AppCompatActivity {
     private Button btnAnswer;
     private TextView displayAnswer;
     private long length;
-    private Random index;
+    private Random rand;
+    private int index;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,7 +51,6 @@ public class Problem extends AppCompatActivity {
                 // This method is called once with the initial value and again
                 // whenever data at this location is updated.
                 length = dataSnapshot.getChildrenCount();
-                length++;
             }
 
             @Override
@@ -64,14 +64,16 @@ public class Problem extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //setting up the random int
-                index = new Random(length++);
+                rand = new Random();
+                index = rand.nextInt((int)length);
+                Log.d("TAG","-->" + index + "/"+length);
 
                 FirebaseDatabase fbDb = FirebaseDatabase.getInstance();
                 DatabaseReference myRef = fbDb.getReference("/punchlines/" + index + "/");
                 myRef.child("punchline").addValueEventListener(new ValueEventListener() {
                     @Override
                     public void onDataChange(DataSnapshot snapshot) {
-                        displayAnswer.setText(snapshot.getValue().toString());  //prints "Do you have data? You'll love Firebase."
+                        displayAnswer.setText("That is because IU " + snapshot.getValue().toString());
                     }
                     @Override
                     public void onCancelled(DatabaseError databaseError) {
