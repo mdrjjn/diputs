@@ -10,11 +10,10 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="45dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
         android:layout_marginTop="65dp"
-        android:text="Your Problem" />
+        android:text="Think of your problem and hit answer"
+        android:textSize="45dp" />
 
     <TextView
         android:id="@+id/answerDisplay"
@@ -29,8 +28,17 @@
         android:id="@+id/btnAnswer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:text="Answer"
         android:layout_above="@+id/answerDisplay"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="64dp"
-        android:text="Answer" />
+        android:layout_marginBottom="12dp" />
+
+    <TextView
+        android:id="@+id/displayAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnAnswer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:textSize="38sp" />
 </RelativeLayout>

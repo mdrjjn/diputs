@@ -37,8 +37,6 @@ public class Contribute extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_contribute);
 
-//        Log.d("TAG", myRef.toString());
-//        myRef.setValue("wasup");
 
         btnSubmitPunch = (Button)findViewById(R.id.btnSubmitPunchline);
         btnSubmitPunch = (Button)findViewById(R.id.btnSubmitPunchline);
