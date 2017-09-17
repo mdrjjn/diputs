@@ -85,7 +85,7 @@ public class Contribute extends AppCompatActivity {
                     punchEdit.setHint("All set! Thanks for contributing)");
                 }
                 else {
-                    Toast.makeText(getApplicationContext(), "Type in a punchline you bitch", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Type in something dummie!", Toast.LENGTH_SHORT).show();
                 }
 
             }
