@@ -32,7 +32,6 @@
         android:id="@+id/jokeButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="onClickJokeButton"
         android:text="Jokes"
         android:layout_marginTop="46dp"
         android:layout_below="@+id/helpButton"
