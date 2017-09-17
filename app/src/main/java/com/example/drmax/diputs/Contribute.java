@@ -24,6 +24,7 @@ public class Contribute extends AppCompatActivity {
     private Button btnSubmitPunch;
     private TextView answerDisplay;
     private EditText punchEdit;
+    private EditText inpQue;
     private long nextIndex;
     FirebaseDatabase fbDb;
     DatabaseReference myRef;
@@ -41,11 +42,14 @@ public class Contribute extends AppCompatActivity {
         btnSubmitPunch = (Button)findViewById(R.id.btnSubmitPunchline);
         btnSubmitPunch = (Button)findViewById(R.id.btnSubmitPunchline);
         punchEdit   = (EditText)findViewById(R.id.punchLine);
+        inpQue = (EditText)findViewById(R.id.inpQuestion);
         nextIndex = 0;
 
         //Connecting to firebase
         fbDb = FirebaseDatabase.getInstance();
         myRef = fbDb.getReference("/punchlines");
+
+
         //getting the length of the array
         myRef.addValueEventListener(new ValueEventListener() {
             @Override
@@ -65,12 +69,23 @@ public class Contribute extends AppCompatActivity {
         btnSubmitPunch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+
                 //getting the value of the punchline input
                 String punchLine = punchEdit.getText().toString();
 
                 DatabaseReference newRef = fbDb.getReference("/punchlines/" + nextIndex);
 
                 newRef.setValue(punchLine);
+
+                //Display the response to the user that the line has been successfully uploaded
+                punchEdit.setText("");
+                punchEdit.setHint("All set! Thanks for contributing)");
+
+
+                //Submitting the question, if inputted
+                String question = inpQue.getText().toString();
+
+                if (question.length())
 
             }
         });

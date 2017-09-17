@@ -37,15 +37,15 @@
         android:textSize="36sp" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/inpQuestion"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
         android:layout_marginTop="17dp"
         android:ems="10"
         android:hint="Why is my hw not done?"
-        android:inputType="textMultiLine"
-        android:layout_below="@+id/textView2"
-        android:layout_alignStart="@+id/textView2" />
+        android:inputType="textMultiLine" />
 
     <EditText
         android:id="@+id/punchLine"
