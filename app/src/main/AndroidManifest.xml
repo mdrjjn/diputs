@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".Problem" />
         <activity android:name=".Contribute" />
-        <activity android:name=".Jokes"></activity>
+        <activity android:name=".Jokes" />
+        <activity android:name=".History" />
     </application>
 
 </manifest>

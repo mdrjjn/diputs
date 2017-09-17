@@ -21,25 +21,33 @@
         android:id="@+id/contributeButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_marginBottom="95dp"
         android:onClick="onClickContributeButton"
         android:text="Contribute"
+        android:layout_below="@+id/helpButton"
         android:layout_alignStart="@+id/jokeButton"
-        android:layout_alignEnd="@+id/jokeButton" />
+        android:layout_marginTop="45dp"
+        android:layout_alignEnd="@+id/helpButton" />
 
     <Button
         android:id="@+id/jokeButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="onClickJokeButton"
         android:text="Jokes"
-        android:layout_marginTop="46dp"
-        android:layout_below="@+id/helpButton"
+        android:layout_alignTop="@+id/contributeButton"
         android:layout_alignStart="@+id/helpButton"
+        android:layout_marginTop="88dp"
         android:layout_alignEnd="@+id/helpButton" />
 
-
-
-
+    <Button
+        android:id="@+id/btnFunFact"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/jokeButton"
+        android:onClick="onClickFunFactButton"
+        android:layout_alignStart="@+id/jokeButton"
+        android:layout_below="@+id/contributeButton"
+        android:layout_marginTop="130dp"
+        android:text="Fun Facts" />
 
 </RelativeLayout>

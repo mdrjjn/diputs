@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.drmax.diputs.History">
+
+    <Button
+        android:id="@+id/btnClick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Give me a fun fact"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <TextView
+        android:id="@+id/txtFact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="296dp"
+        android:layout_below="@+id/btnClick"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="16dp" />
+
+
+</RelativeLayout>

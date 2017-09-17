@@ -65,7 +65,7 @@ public class Problem extends AppCompatActivity {
             public void onClick(View view) {
                 //setting up the random int
                 rand = new Random();
-                index = rand.nextInt((int)length);
+                index = rand.nextInt((int)length) + 1;
                 Log.d("TAG","-->" + index + "/"+length);
 
                 FirebaseDatabase fbDb = FirebaseDatabase.getInstance();

@@ -83,6 +83,9 @@ public class Contribute extends AppCompatActivity {
                     //Display the response to the user that the line has been successfully uploaded
                     punchEdit.setText("");
                     punchEdit.setHint("All set! Thanks for contributing)");
+
+                    inpQue.setText("");
+                    inpQue.setHint("All set! Thanks for contributing)");
                 }
                 else {
                     Toast.makeText(getApplicationContext(), "Type in something dummie!", Toast.LENGTH_SHORT).show();
