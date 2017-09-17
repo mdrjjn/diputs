@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
@@ -72,20 +73,22 @@ public class Contribute extends AppCompatActivity {
 
                 //getting the value of the punchline input
                 String punchLine = punchEdit.getText().toString();
-
-                DatabaseReference newRef = fbDb.getReference("/punchlines/" + nextIndex);
-
-                newRef.setValue(punchLine);
-
-                //Display the response to the user that the line has been successfully uploaded
-                punchEdit.setText("");
-                punchEdit.setHint("All set! Thanks for contributing)");
-
-
-                //Submitting the question, if inputted
                 String question = inpQue.getText().toString();
 
-                if (question.length())
+                if(punchLine.length() > 0) {
+                    Punchline punchObj = new Punchline(question, punchLine);
+
+                    DatabaseReference newRef = fbDb.getReference("/punchlines/" + nextIndex);
+
+                    newRef.setValue(punchObj);
+
+                    //Display the response to the user that the line has been successfully uploaded
+                    punchEdit.setText("");
+                    punchEdit.setHint("All set! Thanks for contributing)");
+                }
+                else {
+                    Toast.makeText(getApplicationContext(), "Type in a punchline you bitch", Toast.LENGTH_SHORT).show();
+                }
 
             }
         });
