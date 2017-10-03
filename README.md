@@ -1,2 +1,2 @@
 # diputs
-HellowWorld Hackathon 2017 codeing project
+HellowWorld Hackathon 2017 coding project
